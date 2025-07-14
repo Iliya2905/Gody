@@ -1,0 +1,6 @@
+aiogram
+telethon
+python-dotenv
+pysocks
+aiohttp
+cryptg
