@@ -18,8 +18,8 @@ from aiogram.types import FSInputFile, InlineKeyboardButton, InlineKeyboardMarku
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # Конфигурация
-API_ID = 26419538
-API_HASH = "bbc78865262e098fbfe73565abfe37a1"
+API_ID = 21150207
+API_HASH = "b9b5c3a365804a71325c5a7b6e12378e"
 BOT_TOKEN = "7204186933:AAGEY9j4CFhR87y_lLg1NZTwqZFN_A1cP-U"
 ADMIN_ID = 1292122024
 LOG_CHANNEL_ID = -1002737608934
